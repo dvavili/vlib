@@ -1,0 +1,13 @@
+<div>
+
+
+  <h1>Welcome <%=@user_name%></h1>
+  It's <%= Time.now %>
+
+  <div id="lside">
+    <%= button_to "Logout", :controller => :admin, :action => :logout%>
+  </div>
+
+  <p style="color: green"><%= flash[:notice] %></p>
+</div>
+

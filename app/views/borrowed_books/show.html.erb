@@ -1,0 +1,18 @@
+<p>
+  <b>User:</b>
+  <%=h @borrowed_book.user_id %>
+</p>
+
+<p>
+  <b>Book:</b>
+  <%=h @borrowed_book.book_id %>
+</p>
+
+<p>
+  <b>Borrowed date:</b>
+  <%=h @borrowed_book.borrowed_date %>
+</p>
+
+
+<%= link_to 'Edit', edit_borrowed_book_path(@borrowed_book) %> |
+<%= link_to 'Back', borrowed_books_path %>

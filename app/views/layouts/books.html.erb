@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html>
+  <head>
+    <title>Virtual Library</title>
+    <%= stylesheet_link_tag "lib" , :media => "all" %>
+    <%= javascript_include_tag "prototype" %>
+  </head>
+  <body id="book">
+    <div id="banner">
+      <%= image_tag("logo.png" ) %>
+      <%= @page_title || "Virtual Library" %>
+    </div>
+    <div id="columns">
+      <div id ="rside">
+        <% if @user_type != 'a' %>
+          <div id="borrowed_book" style="font-size:small">
+            <br/><%= link_to_remote( "Number of books borrowed:",
+              :update => "borrowed_book",
+              :url =>{ :action => :num_books_borrowed },
+              :position => 'after') %>
+          </div>
+        <%end%>
+        <div id="time_div" style="font-size:small">
+          <%= link_to_remote( "Click here to know the time",
+            :update => "time_div",
+            :url =>{ :action => :say_when },
+            :position => 'after') %>
+        </div>
+      </div>
+      <div id="lside">
+        <% if @user_type == 'a' %>
+          <%= link_to 'Manage Users', :controller => :users, :action => :index %><br/>
+        <%end%>
+        <% if @user_type == 'e' %>
+          <%= link_to 'Borrowed Books', :controller => :borrowed_books, :action => :index %><br/>
+        <%end%>
+        <%= link_to 'Search Books', :controller => :books, :action => :index %><br/>
+        <%= button_to 'Logout', :controller => :admin, :action => :logout%>
+      </div>
+      <div id="main">
+        <%= yield :layout %>
+      </div>
+      <div id="footer"> &copy;Kodexter 2010 </div>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>Virtual Library</title>
+    <%= stylesheet_link_tag "lib" , :media => "all" %>
+  </head>
+  <body id="book">
+    <div id="banner">
+      <%= image_tag("logo.png" ) %>
+      <%= @page_title || "Virtual Library" %>
+    </div>
+    <div id="columns">
+      <div id ="rside">
+       
+      </div>
+      <div id="lside">
+
+      </div>
+
+      <div id="main">
+        <%= flash[:notice] %>
+  <fieldset>
+    <legend>Log In</legend>
+    <% form_tag do %>
+    <table>
+      <tr>
+        <td><label for="email">Email:</label></td>
+        <td><%= text_field_tag :email, params[:email] %></td>
+      </tr>
+      <tr>
+        <td><label for="password">Password:</label></td>
+        <td><%= password_field_tag :password, params[:password] %></td>
+      </tr>
+      <tr>
+        <td><%= submit_tag "Login" %></td>
+
+      </tr>
+    </table>
+    <% end %>
+  </fieldset>
+      </div>
+      <div id="footer"> &copy;Kodexter 2010 </div>
+    </div>
+  </body>
+</html>
+ 
+
+   

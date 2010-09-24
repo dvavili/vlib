@@ -1,0 +1,17 @@
+class CreateUsers < ActiveRecord::Migration
+  def self.up
+    create_table :users do |t|
+      t.string :name
+      t.string :email
+      t.string :hashed_password, :default => 'password'
+      t.string :address
+      t.integer :phone_number
+      t.string  :salt
+      t.timestamps
+    end
+  end
+
+  def self.down
+    drop_table :users
+  end
+end

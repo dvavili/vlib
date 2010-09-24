@@ -1,0 +1,114 @@
+#banner {
+  background: white;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid;
+  font: small-caps 40px/40px "Times New Roman", serif;
+  color: #482722;
+  text-align: center;
+}
+
+#banner img {
+  float: left;
+}
+
+#columns {
+  
+}
+
+#main {
+  margin-left: 13em;
+  padding-top: 4ex;
+  padding-left: 2em;
+  background: white;
+  
+}
+
+#lside {
+  float: left;
+ 
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  width: 12em;
+  height: 600px;
+  background: activeborder;
+}
+
+#rside  {
+  float: right;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  height: 600px;
+  width: 20em;
+  background: activeborder;
+}
+#footer {
+    clear: both;
+    margin: 0;
+    padding: 0px;
+    text-align: center;
+    
+    background-color: activeborder;
+    }
+    
+#book  .entry {
+  overflow: auto;
+  margin-top: 1em;
+  border-bottom: 1px dotted #77d;
+}
+
+#book  .title {
+  font-size: 120%;
+  font-family: sans-serif;
+}
+
+#book .entry img {
+  width: 75px;
+  float: left;
+}
+
+
+#book .entry h3 {
+ margin-top: 0;
+ margin-bottom: 2px;
+ 
+}
+
+#book .entry p {
+ margin-top: 0.5em;
+ margin-bottom: 0.8em;
+}
+
+div.auto_complete {
+  width: 300px;
+  background: #fff;
+}
+
+div.auto_complete ul {
+  border: 1px solid #888;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  list-style-type: none;
+}
+
+div.auto_complete ul li {
+  margin: 0px;
+  padding: 3px;
+}
+
+div.auto_complete ul li.selected {
+  background-color: #ffb;
+}
+
+div.auto_complete ul strong.highlight {
+  color: #800;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+

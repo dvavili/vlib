@@ -1,0 +1,258 @@
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/users_controller_test.rb:1:in `require'
+./test/functional/users_controller_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+test/unit/book_test.rb:1:in `require'
+test/unit/book_test.rb:1
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+test/unit/book_test.rb:1:in `require'
+test/unit/book_test.rb:1
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+test/unit/book_test.rb:1:in `require'
+test/unit/book_test.rb:1
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+test/unit/book_test.rb:1:in `require'
+test/unit/book_test.rb:1
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+test/unit/book_test.rb:1:in `require'
+test/unit/book_test.rb:1
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+Unable to load search, underlying cause no such file to load -- search 
+
+ /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:155:in `require'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:262:in `require_or_load'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:221:in `depend_on'
+/home/divya/Documents/vlib/vendor/rails/activesupport/lib/active_support/dependencies.rb:133:in `require_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `each'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/home/divya/Documents/vlib/vendor/rails/activerecord/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/unit/../test_helper.rb:35
+./test/unit/book_test.rb:1:in `require'
+./test/unit/book_test.rb:1
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/1.8/rake/rake_test_loader.rb:5
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'aaa@email.com') LIMIT 1[0m
+  [4;35;1mUser Create (2.0ms)[0m   [0mINSERT INTO "users" ("name", "address", "salt", "created_at", "updated_at", "hashed_password", "user_type", "phone_number", "email") VALUES('aaa', 'addr1', NULL, '2010-09-21 20:52:19', '2010-09-21 20:52:19', 'password', 'e', 1231231231, 'aaa@email.com')[0m
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 688478645) [0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'divya@email.com') LIMIT 1[0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 688478645) [0m
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'divya@email.com') LIMIT 1[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m

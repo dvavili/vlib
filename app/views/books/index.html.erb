@@ -1,0 +1,40 @@
+<h1>Search the library</h1>
+
+<%form_tag books_path, :method => 'get' do%>
+  <p>
+    <%=text_field_tag :search, params[:search]%>
+    <%= submit_tag "Search", :name => nil %>
+  </p>
+<%end%>
+
+<table>
+  <% for book in @books %>
+    <tr>
+      <td><%= image_tag book.image_url  %></td>
+      <td><%=h book.title %><br/>
+        <%=h book.description %><br/>
+        <%=h book.quantity %><br/>
+      </td>
+      <%if @user_type == 'a'%>
+        <td><%= link_to 'Show', book %></td>
+        <td><%= link_to 'Edit', edit_book_path(book) %></td>
+        <td><%= link_to 'Remove Book', book, :confirm => 'Are you sure?', :method => :delete %></td>
+      <%else%>
+        <%if @user_type == 'e'%>
+          <td><%=button_to 'Borrow', :controller => :borrowed_books, :action => :borrow, :id => book %></td>
+        <%end%>
+      <%end%>
+    </tr>
+  <% end %>
+</table>
+
+<% if session[:user_id] %>
+  <br />
+  <%if @user_type == 'a'%>
+    <%= link_to 'New book', new_book_path %>
+  <%end%>
+<%end%>
+
+
+
+

@@ -1,0 +1,34 @@
+<h1>Listing borrowed_books</h1>
+
+<table>
+  <tr>
+    <%if @user_type == 'a'%>
+      <th>User</th>
+    <%end%>
+    <th>Book</th>
+    <th>Borrowed date</th>
+    <th>Return date</th>
+  </tr>
+
+  <% for borrowed_book in @borrowed_books %>
+    <tr>
+      <%if @user_type == 'a'%>
+        <td><%=h borrowed_book.get_user %></td>
+      <%end%>
+      <td><%= image_tag borrowed_book.get_book_image %>
+        <br/><%=h borrowed_book.get_book %></td>
+      <td><%=h borrowed_book.get_borrowed_date %></td>
+      <td><%=h borrowed_book.get_return_date %></td>
+      <% if @user_type == 'a' %>
+        <td><%= link_to 'Show', borrowed_book %></td>
+        <td><%= link_to 'Edit', edit_borrowed_book_path(borrowed_book) %></td>
+        <td><%= link_to 'Destroy', borrowed_book, :confirm => 'Are you sure?', :method => :delete %></td>
+      <%else%>
+        <%if @user_type == 'e'%>
+          <td><%=button_to 'Return', :action => :return_book, :id => borrowed_book%></td>
+        <%end%>
+      <%end%>
+    </tr>
+  <% end %>
+</table>
+<br />
